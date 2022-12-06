@@ -1,9 +1,8 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
-# Hi, I'am André, working with Java and Web Development ince 2010.   
+# Hi, I'am André, a back-end developer working with Java and Web Development since 2010.     
   
 
 <br/>  
